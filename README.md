@@ -3,7 +3,7 @@
 
 Sesi ini adalah sesi pertama publikasi [**Tim Chetabahana**](https://github.com/chetabahana) dari sesi utama yaitu: [_Toko-Chetabahana_](https://github.com/MarketLeader/Toko-Chetabahana) sebelum menginjak ke sesi kedua [ Google-Content-API ](https://github.com/MarketLeader/Google-Content-API) dan sesi ketiga  yaitu [ Google-AdWords-API ](https://github.com/MarketLeader/Google-AdWords-API).
 
-Di sesi ini kami akan publikasikan cara untuk memampilkan produk unggulan dari [Toko Online Chetabahana](https://chetabahana.com/)  secara dinamis di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/) via [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide)..
+Di sesi ini kami akan publikasikan cara untuk memampilkan produk unggulan dari [Toko Online Chetabahana](https://chetabahana.com/)  secara dinamis di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/) via [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide).
 
 ## Pilosopi
 Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:

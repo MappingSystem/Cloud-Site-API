@@ -22,7 +22,6 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.
 
 ## Struktur
-Struktur dari prosesnya dijalankan dengan asas terbalik sbb:
 - Proses ke-1: Proses akses akun.
 - Proses ke-2: Proses akses data. 
 - Proses ke-3: Proses sunting data.

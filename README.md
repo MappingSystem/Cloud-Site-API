@@ -54,5 +54,5 @@ Met menyimak.. :pray:
 SALAM Sukses!  
 :copyright: [**Tim Chetabahana**](https://github.com/chetabahana)  
 
-[![profile for Chetabahana on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/5054985.png)](https://stackexchange.com/users/5054985) 
+[![profile for Chetabahana on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/5054985.png)](https://stackexchange.com/users/5054985)  
 [WE ARE GOING TO WIN THE MARKET!](https://github.com/MarketLeader/Toko-Chetabahana)

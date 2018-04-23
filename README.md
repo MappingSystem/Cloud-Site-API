@@ -34,7 +34,7 @@ Proses diatur dengan alur sbb:
 - Proses ke-3: Proses kelola atribut.
 - Proses ke-4: Proses simpan atribut.
 <p align="center"> 
-<a href="https://chetabahana.com/product?l=60&o=produk&group=389"><img src="https://user-images.githubusercontent.com/36441664/39101424-8c18e932-46c3-11e8-9eb7-cb5fcaac9540.png"></a>Gambar-1: Contoh Struktur Data untuk produk <a href=https://chetabahana.com>Toko Chetabahana</a> dalam kompetisi di Google Search
+<a href="https://chetabahana.com/product?l=60&o=produk&group=389"><img src="https://user-images.githubusercontent.com/36441664/39101424-8c18e932-46c3-11e8-9eb7-cb5fcaac9540.png" alt="produk pakaian dari Toko Online Chetabahana.com"></a>Gambar-1: Contoh Struktur Data untuk <a href="https://chetabahana.com/product?l=60&o=produk&group=389">produk pakaian dari Toko Online Chetabahana</a> dalam kompetisi di Google Search
 </p>
 
 ## Struktur

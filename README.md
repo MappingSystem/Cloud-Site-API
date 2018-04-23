@@ -30,12 +30,32 @@ Philosofi utamanya adalah optimasi produk secara internal:
 - Kemandirian strategi
 - Kesinambungan
 
-## Struktur
+## Proses
 Proses diatur dengan alur sbb:
 - Proses ke-1: Proses ahir data.
 - Proses ke-2: Proses akses akun. 
 - Proses ke-3: Proses kelola atribut.
 - Proses ke-4: Proses simpan atribut.
+
+
+## Struktur
+Struktur dari alur dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/wiki/Algorithm) sbb:
+```
+Proses ke-4: Proses simpan atribut (Top_dir)
+|-----README.md (yg sedang ada baca)
+|-----Proses ke-3: Proses kelola atribut
+      |----README.md
+      |----Proses ke-2: Proses akses akun
+           |----README.md
+      |----Proses ke-1: Proses ahir data
+           |----README.md
+```
+- [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
+- [Proses ke-2](https://github.com/MarketLeader/Google-Content-API#google-content-api): Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
+- [Proses ke-3](https://github.com/MarketLeader/Google-AdWords-API#google-adwords-api): Mulai dari akses ke database produk, kinerja penjualan sampai optimasi setelan promosi.
+- [Proses ke-4](#proses): Mengatur konfigurasi, penjadwalan, lalu-lintas data, dan analisa hasil dari semua proses.
+
+
 
 ## Repositori
 Penempatan Repositori (Repo) untuk setiap proses diatur sbb:

@@ -20,7 +20,7 @@ Philosofi utamanya adalah optimasi produk secara internal:
 - Kualitas conten: Deskripsi, Relevansi, Gambar, dan Properti
 - Rating penjual
 <p align="center"> 
-<a href="https://chetabahana.com/product?l=60&o=produk&group=406"><img src="https://user-images.githubusercontent.com/36441664/39101424-8c18e932-46c3-11e8-9eb7-cb5fcaac9540.png"></a>Gambar-1: Contoh Struktur Data untuk produk <a href=https://chetabahana.com>Toko Chetabahana</a> dalam kompetisi di Google Search
+<a href="https://chetabahana.com/product?l=60&o=produk&group=389"><img src="https://user-images.githubusercontent.com/36441664/39101424-8c18e932-46c3-11e8-9eb7-cb5fcaac9540.png"></a>Gambar-1: Contoh Struktur Data untuk produk <a href=https://chetabahana.com>Toko Chetabahana</a> dalam kompetisi di Google Search
 </p>
 
 ## Manfaat

@@ -42,11 +42,11 @@ Struktur dari alur dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/
 ```
 Proses ke-4: Proses simpan atribut (Top_dir)
 |-----README.md (yg sedang ada baca)
-|-----Proses ke-3: Proses kelola atribut
+|-----Proses ke-3: Proses kelola atribut (kelola_atribut)
       |----README.md
-      |----Proses ke-2: Proses akses akun
+      |----Proses ke-2: Proses akses akun (akses_akun)
            |----README.md
-      |----Proses ke-1: Proses ahir data
+      |----Proses ke-1: Proses ahir data (ahir_data)
            |----README.md
 ```
 - [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
@@ -55,11 +55,11 @@ Proses ke-4: Proses simpan atribut (Top_dir)
 - [Proses ke-4](#proses): Mengatur konfigurasi, penjadwalan, lalu-lintas data, dan analisa hasil dari semua proses.
 
 ## Repositori
-Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
-- Repo Proses ke-1: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
-- Repo Proses ke-2: [MarketLeader/Google-Content-API](https://github.com/MarketLeader/Google-Content-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Content-API/wiki)
-- Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki)
-- Repo Proses ke-4: [MarketLeader/Toko-Chetabahana](https://github.com/MarketLeader/Toko-Chetabahana) (ini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Toko-Chetabahana/wiki)
+Hirarki dari Top Directory (Top_dir):
+- Top_dir/kelola_atribut/ahir_data: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/ahir_data). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Top_dir/kelola_atribut/akses_akun: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/akses_akun). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Top_dir/kelola_atribut: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Top_dir: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API) (yang ini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 
 ## License
 Project ini dipublikasikan dengan lisensi berikut:  

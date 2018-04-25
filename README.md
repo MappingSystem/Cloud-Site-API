@@ -55,7 +55,7 @@ Proses ke-4: Proses simpan atribut (Top_dir)
 - [Proses ke-4](#proses): Mengatur konfigurasi, penjadwalan, lalu-lintas data, dan analisa hasil dari semua proses.
 
 ## Repositori
-Hirarki dari Top Directory (Top_dir):
+Hirarki ke Top Directory (Top_dir) dari Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)):
 - Proses ahir data: [Top_dir/kelola_atribut/ahir_data](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/ahir_data) (buka arsip). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Proses akses akun: [Top_dir/kelola_atribut/akses_akun](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/akses_akun). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Proses kelola atribut: [Top_dir/kelola_atribut](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)

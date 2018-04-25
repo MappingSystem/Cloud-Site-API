@@ -15,8 +15,8 @@ Di sesi ini kami akan publikasikan cara untuk memampilkan produk unggulan dari [
 
 ## Pilosopi
 Philosofi utamanya adalah untuk optimasi tampilan produk secara internal di situs toko:
-- Pemilahan produk unggulan: Relevansi, Merek Dagang, Harga dan Ketersediaan (stok).
-- Kualitas conten: Atribut, Properti, Deskripsi, dan Resolusi Gambar.
+- Pemilahan produk unggulan: Trend, Merek Dagang, Harga dan Ketersediaan (stok).
+- Kualitas conten: Relevansi, Atribut, Properti, Deskripsi, dan Gambar.
 - Atribut produk: Kategori (Taxonomi), Navigasi (Breadcrumbs).
 - Struktur data: Microdata, Improve Data, Struktur HTML.
 - Atribut lainnya spt Rating di Sosmed, penjual dll

@@ -19,7 +19,7 @@ Philosofi utamanya adalah untuk optimasi tampilan produk secara internal di situ
 - Kualitas conten: Atribut, Properti, Deskripsi, dan Resolusi Gambar.
 - Atribut produk: Kategori (Taxonomi), Navigasi (Breadcrumbs).
 - Struktur data: Microdata, Improve Data, Struktur HTML.
-- Atribut lainnya spt Rating penjual dll
+- Atribut lainnya spt Rating di Sosmed, penjual dll
 
 ## Manfaat
 - Meningkatkan peluang penelusuran

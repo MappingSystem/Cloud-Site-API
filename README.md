@@ -29,10 +29,10 @@ Philosofi utamanya adalah optimasi produk secara internal:
 
 ## Proses
 Proses diatur dengan alur sbb:
-- Proses ke-1: Proses buka arsip.
-- Proses ke-2: Proses data terkini. 
-- Proses ke-3: Proses kelola atribut.
-- Proses ke-4: Proses simpan atribut.
+- [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
+- [Proses ke-2](https://github.com/MarketLeader/Google-Content-API#google-content-api): Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
+- [Proses ke-3](https://github.com/MarketLeader/Google-AdWords-API#google-adwords-api): Mulai dari akses ke database produk, kinerja penjualan sampai optimasi setelan promosi.
+- [Proses ke-4](#proses): Mengatur konfigurasi, penjadwalan, lalu-lintas data, dan analisa hasil dari semua proses.
 <p align="center"> 
 <a href="https://chetabahana.com/product?l=60&o=produk&group=389"><img src="https://user-images.githubusercontent.com/36441664/39101424-8c18e932-46c3-11e8-9eb7-cb5fcaac9540.png" alt="produk pakaian dari Toko Online Chetabahana.com"></a>Gambar-1: Contoh Struktur Data untuk <a href="https://chetabahana.com/product?l=60&o=produk&group=389">produk pakaian dari Toko Online Chetabahana</a> dalam kompetisi di Google Search
 </p>
@@ -49,10 +49,10 @@ Proses ke-4: Proses simpan atribut (Top_dir)
       |----Proses ke-1: Proses buka arsip (buka_arsip)
            |----README.md
 ```
-- [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
-- [Proses ke-2](https://github.com/MarketLeader/Google-Content-API#google-content-api): Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
-- [Proses ke-3](https://github.com/MarketLeader/Google-AdWords-API#google-adwords-api): Mulai dari akses ke database produk, kinerja penjualan sampai optimasi setelan promosi.
-- [Proses ke-4](#proses): Mengatur konfigurasi, penjadwalan, lalu-lintas data, dan analisa hasil dari semua proses.
+- Proses ke-1: Proses buka arsip.
+- Proses ke-2: Proses data terkini. 
+- Proses ke-3: Proses kelola atribut.
+- Proses ke-4: Proses simpan atribut.
 
 ## Repositori
 Hirarki ke Top Directory (Top_dir) dari Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)):

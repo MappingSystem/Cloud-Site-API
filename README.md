@@ -29,7 +29,7 @@ Philosofi utamanya adalah optimasi produk secara internal:
 
 ## Proses
 Proses diatur dengan alur sbb:
-- Proses ke-1: Proses ahir data.
+- Proses ke-1: Proses buka arsip.
 - Proses ke-2: Proses akses akun. 
 - Proses ke-3: Proses kelola atribut.
 - Proses ke-4: Proses simpan atribut.
@@ -44,9 +44,9 @@ Proses ke-4: Proses simpan atribut (Top_dir)
 |-----README.md (yg sedang ada baca)
 |-----Proses ke-3: Proses kelola atribut (kelola_atribut)
       |----README.md
-      |----Proses ke-2: Proses akses akun (akses_akun)
+      |----Proses ke-2: Proses data terkini (akses_akun)
            |----README.md
-      |----Proses ke-1: Proses ahir data (ahir_data)
+      |----Proses ke-1: Proses buka arsip (buka_arsip)
            |----README.md
 ```
 - [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
@@ -56,7 +56,7 @@ Proses ke-4: Proses simpan atribut (Top_dir)
 
 ## Repositori
 Hirarki ke Top Directory (Top_dir) dari Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)):
-- Proses ahir data: [Top_dir/kelola_atribut/ahir_data](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/ahir_data). Dokumentasi [_wiki_](https://help.github.com/articles/about-github-wikis/) nya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Proses buka arsip: [Top_dir/kelola_atribut/buka_arsip](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/buka_arsip). Dokumentasi [_wiki_](https://help.github.com/articles/about-github-wikis/) nya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Proses akses akun: [Top_dir/kelola_atribut/akses_akun](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/akses_akun). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Proses kelola atribut: [Top_dir/kelola_atribut](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Proses simpan atribut: [Top_dir](https://github.com/MarketLeader/Google-Sites-API) (yang ini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)

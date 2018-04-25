@@ -56,9 +56,9 @@ Proses ke-4: Proses simpan atribut (Top_dir)
 
 ## Repositori
 Hirarki dari Top Directory (Top_dir):
-- Top_dir/kelola_atribut/ahir_data: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/ahir_data). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
-- Top_dir/kelola_atribut/akses_akun: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/akses_akun). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
-- Top_dir/kelola_atribut: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Proses ahir data: [Top_dir/kelola_atribut/ahir_data](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/ahir_data). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Proses akses akun: [Top_dir/kelola_atribut/akses_akun](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut/akses_akun). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Proses kelola atribut: [Top_dir/kelola_atribut](https://github.com/MarketLeader/Google-Sites-API/tree/master/kelola_atribut). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Top_dir: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API) (yang ini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 
 ## License

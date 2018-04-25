@@ -19,13 +19,13 @@ Philosofi utamanya adalah untuk optimasi tampilan produk secara internal di situ
 - Kualitas conten: Deskripsi, Relevansi, Gambar, dan Properti
 - Atribut produk: Kategori, Navigasi (Breadcrumbs)
 - Struktur data: Microdata, Improve HTML
-- Rating penjual
+- Atrut lainnya spt Rating penjual dll
 
 ## Manfaat
 - Meningkatkan peluang penelusuran
-- Mengoptimalkan biaya iklan
-- Efisiensi sales return
-- Kemandirian strategi
+- Mengoptimalkan sales return
+- Kemandirian dalam strategi
+- Efisiensi biaya iklan
 - Kesinambungan
 
 ## Proses

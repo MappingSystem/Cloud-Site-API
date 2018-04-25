@@ -14,7 +14,7 @@ Sesi ini adalah sesi pertama publikasi [**Tim Chetabahana**](https://github.com/
 Di sesi ini kami akan publikasikan cara untuk memampilkan produk unggulan dari [Toko Online Chetabahana](https://chetabahana.com/)  secara dinamis di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/) via [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide).
 
 ## Pilosopi
-Philosofi utamanya adalah untuk optimasi tampilan produk secara peroidik di situs bantu:
+Philosofi utamanya adalah untuk optimasi tampilan produk secara periodik di situs bantu spt:
 - Pemilahan produk unggulan: Trend, Merek Dagang, Harga dan Ketersediaan (stok).
 - Kualitas conten: Relevansi, Atribut, Properti, Deskripsi, dan Resolusi Gambar.
 - Atribut produk: Kategori (Taxonomi), Navigasi (Breadcrumbs).

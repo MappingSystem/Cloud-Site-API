@@ -16,6 +16,7 @@
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\cron.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\init.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\update.sh" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\common.env" />
                     </Folder>
                     <Folder name=".local">
                         <Folder name="gcloud">
@@ -107,7 +108,6 @@
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\.gitignore" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\cloudbuild.yaml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\codefresh.yml" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\common.env" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\docker-compose.override.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\docker-compose.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\README.md" />
@@ -34096,41 +34096,6 @@
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\deploy\product\cloudbuild.yaml" />
                     </Folder>
                 </Folder>
-                <Folder name="home">
-                    <Folder name="chetabahana">
-                        <Folder name=".docker">
-                            <Folder name="branch">
-                                <Folder name="saleor">
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\saleor\gunicorn.py" />
-                                </Folder>
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\Pipfile" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\Pipfile.lock" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\requirements.txt" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\requirements_dev.txt" />
-                            </Folder>
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\cron.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\init.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\update.sh" />
-                        </Folder>
-                        <Folder name=".local">
-                            <Folder name="gcloud">
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.local\gcloud\cloud_env.bat" />
-                            </Folder>
-                        </Folder>
-                        <Folder name=".logs">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.logs\branches.log" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.logs\compose.log" />
-                        </Folder>
-                        <Folder name=".tx">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.tx\config" />
-                        </Folder>
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.bashrc" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.bash_aliases" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.bash_logout" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.profile" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.wget-hsts" />
-                    </Folder>
-                </Folder>
                 <Folder name="scripts">
                     <Folder name="assets">
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\scripts\assets\identity.sh" />
@@ -34151,7 +34116,6 @@
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\.gitignore" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\cloudbuild.yaml" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\codefresh.yml" />
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\common.env" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\docker-compose.override.yml" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\docker-compose.yml" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\README.md" />

@@ -34112,6 +34112,11 @@
                             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\init.sh" />
                             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\update.sh" />
                         </Folder>
+                        <Folder name=".local">
+                            <Folder name="gcloud">
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.local\gcloud\cloud_env.bat" />
+                            </Folder>
+                        </Folder>
                         <Folder name=".logs">
                             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.logs\branches.log" />
                             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.logs\compose.log" />
@@ -34142,25 +34147,6 @@
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\scripts\product\services.sh" />
                     </Folder>
                     <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\scripts\main.bash" />
-                </Folder>
-                <Folder name="windows">
-                    <Folder name="cygwin">
-                        <Folder name="home">
-                            <Folder name="Chetabahana">
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bashrc" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_git" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_history" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_logout" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_profile" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.inputrc" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.profile" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.psql_history" />
-                            </Folder>
-                        </Folder>
-                    </Folder>
-                    <Folder name="gcloud">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\gcloud\cloud_env.bat" />
-                    </Folder>
                 </Folder>
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\.gitignore" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\cloudbuild.yaml" />

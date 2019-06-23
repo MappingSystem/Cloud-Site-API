@@ -8,10 +8,19 @@
                             <Folder name="saleor">
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\saleor\gunicorn.py" />
                             </Folder>
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\Pipfile" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\Pipfile.lock" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\requirements.txt" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\requirements_dev.txt" />
                         </Folder>
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\cron.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\init.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\update.sh" />
+                    </Folder>
+                    <Folder name=".local">
+                        <Folder name="gcloud">
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.local\gcloud\cloud_env.bat" />
+                        </Folder>
                     </Folder>
                     <Folder name=".logs">
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.logs\branches.log" />
@@ -24,7 +33,8 @@
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\config" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\expect_clone" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\expect_push" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\google_compute_engine" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\github_token" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\google_compute_engine.enc" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\google_compute_engine.pub" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\google_compute_known_hosts" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.ssh\id_rsa.enc" />
@@ -56,21 +66,8 @@
                 </Folder>
                 <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\main.bash" />
             </Folder>
-            <Folder name="windows">
-                <Folder name="cygwin">
-                    <Folder name="home">
-                        <Folder name="Chetabahana">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\windows\cygwin\home\Chetabahana\.bashrc" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\windows\cygwin\home\Chetabahana\.bash_git" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\windows\cygwin\home\Chetabahana\.bash_logout" />
-                        </Folder>
-                    </Folder>
-                </Folder>
-                <Folder name="gcloud">
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\windows\gcloud\cloud_env.bat" />
-                </Folder>
-            </Folder>
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\.gitignore" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\codefresh.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\cloudbuild.yaml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\README.md" />
         </Folder>
@@ -88,41 +85,6 @@
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\deploy\product\app.yaml" />
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\deploy\product\Chetabahana-f92949fb068b.json" />
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\deploy\product\cloudbuild.yaml" />
-                </Folder>
-            </Folder>
-            <Folder name="windows">
-                <Folder name="cygwin">
-                    <Folder name="home">
-                        <Folder name="Chetabahana">
-                            <Folder name=".ssh">
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\agent" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\agent_pub" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\agent_rsa" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\Chetabahana-f92949fb068b.json" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\github_rsa" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\github_rsa.pub" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine.ppk" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine.pub" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\google_compute_known_hosts" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\id_rsa" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\id_rsa.pub" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\known_hosts" />
-                            </Folder>
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.bashrc" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_git" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_history" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_logout" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_profile" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.gitconfig" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.inputrc" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.profile" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\cygwin\home\Chetabahana\.psql_history" />
-                        </Folder>
-                    </Folder>
-                </Folder>
-                <Folder name="gcloud">
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\windows\gcloud\cloud_env.bat" />
                 </Folder>
             </Folder>
             <Folder name="scripts">
@@ -144,6 +106,7 @@
             </Folder>
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\.gitignore" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\cloudbuild.yaml" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\codefresh.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\common.env" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\docker-compose.override.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\docker-compose.yml" />
@@ -34064,28 +34027,6 @@
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Trend-API\README" />
         </Folder>
         <Folder name="Toko-Chetabahana">
-            <Folder name="logs">
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\branches.log" />
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\compose.log" />
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\cygwin.log" />
-            </Folder>
-            <Folder name="docs">
-                <Folder name="cloud">
-                    <Folder name="analysis">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-1.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-2.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-3.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-4.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-5.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-6.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-7.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-8.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-9.jpg" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing.pdf" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\test.md" />
-                    </Folder>
-                </Folder>
-            </Folder>
             <Folder name="branches">
                 <Folder name="home">
                     <Folder name="chetabahana">
@@ -34094,22 +34035,23 @@
                                 <Folder name="saleor">
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\branch\saleor\gunicorn.py" />
                                 </Folder>
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\branch\Pipfile" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\branch\Pipfile.lock" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\branch\requirements.txt" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\branch\requirements_dev.txt" />
                             </Folder>
                             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\cron.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\git.sh" />
                             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\init.sh" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.docker\update.sh" />
                         </Folder>
-                        <Folder name=".ssh">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\agent" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\authorized_keys" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\clone" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\expect_clone" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\expect_push" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\google_compute_engine.pub" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\id_rsa" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\id_rsa.pub" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\known_hosts" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.ssh\push" />
+                        <Folder name=".local">
+                            <Folder name="gcloud">
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.local\gcloud\cloud_env.bat" />
+                            </Folder>
+                        </Folder>
+                        <Folder name=".logs">
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.logs\branches.log" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.logs\compose.log" />
                         </Folder>
                         <Folder name=".tx">
                             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.tx\config" />
@@ -34118,55 +34060,26 @@
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.bash_aliases" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.bash_logout" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.profile" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.transifexrc" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\home\chetabahana\.wget-hsts" />
                     </Folder>
                 </Folder>
                 <Folder name="scripts">
-                    <Folder name="access">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\scripts\access\ssh.sh" />
+                    <Folder name="assets">
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\scripts\assets\identity.sh" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\scripts\assets\ssh.sh" />
                     </Folder>
-                    <Folder name="venv">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\scripts\venv\pipenv.sh" />
+                    <Folder name="environment">
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\scripts\environment\pipenv.sh" />
                     </Folder>
+                    <Folder name="update">
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\scripts\update\git.sh" />
+                    </Folder>
+                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\scripts\branches.log" />
                     <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\scripts\main.bash" />
                 </Folder>
-                <Folder name="windows">
-                    <Folder name="cygwin">
-                        <Folder name="home">
-                            <Folder name="Chetabahana">
-                                <Folder name=".ssh">
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\agent" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\agent_pub" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\agent_rsa" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\Chetabahana-f92949fb068b.json" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\github_rsa" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\github_rsa.pub" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine.ppk" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine.pub" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\google_compute_known_hosts" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\id_rsa" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\id_rsa.pub" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.ssh\known_hosts" />
-                                </Folder>
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.bashrc" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.bash_git" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.bash_history" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.bash_logout" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.bash_profile" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.gitconfig" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.inputrc" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.profile" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\cygwin\home\Chetabahana\.psql_history" />
-                            </Folder>
-                        </Folder>
-                    </Folder>
-                    <Folder name="gcloud">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\windows\gcloud\cloud_env.bat" />
-                    </Folder>
-                </Folder>
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\.gitignore" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\cloudbuild.yaml" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\codefresh.yml" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\README.md" />
             </Folder>
             <Folder name="compose">
@@ -34180,9 +34093,37 @@
                         </Folder>
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\deploy\product\.gcloudignore" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\deploy\product\.gitignore" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\deploy\product\app.yaml" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\deploy\product\Chetabahana-f92949fb068b.json" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\deploy\product\cloudbuild.yaml" />
+                    </Folder>
+                </Folder>
+                <Folder name="home">
+                    <Folder name="chetabahana">
+                        <Folder name=".docker">
+                            <Folder name="branch">
+                                <Folder name="saleor">
+                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\saleor\gunicorn.py" />
+                                </Folder>
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\Pipfile" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\Pipfile.lock" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\requirements.txt" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\branch\requirements_dev.txt" />
+                            </Folder>
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\cron.sh" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\init.sh" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.docker\update.sh" />
+                        </Folder>
+                        <Folder name=".logs">
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.logs\branches.log" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.logs\compose.log" />
+                        </Folder>
+                        <Folder name=".tx">
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.tx\config" />
+                        </Folder>
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.bashrc" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.bash_aliases" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.bash_logout" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.profile" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\home\chetabahana\.wget-hsts" />
                     </Folder>
                 </Folder>
                 <Folder name="scripts">
@@ -34206,27 +34147,11 @@
                     <Folder name="cygwin">
                         <Folder name="home">
                             <Folder name="Chetabahana">
-                                <Folder name=".ssh">
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\agent" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\agent_pub" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\agent_rsa" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\Chetabahana-f92949fb068b.json" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\github_rsa" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\github_rsa.pub" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine.ppk" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\google_compute_engine.pub" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\google_compute_known_hosts" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\id_rsa" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\id_rsa.pub" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.ssh\known_hosts" />
-                                </Folder>
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bashrc" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_git" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_history" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_logout" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.bash_profile" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.gitconfig" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.inputrc" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.profile" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\cygwin\home\Chetabahana\.psql_history" />
@@ -34237,9 +34162,35 @@
                         <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\windows\gcloud\cloud_env.bat" />
                     </Folder>
                 </Folder>
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\.gitignore" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\cloudbuild.yaml" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\codefresh.yml" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\common.env" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\docker-compose.override.yml" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\docker-compose.yml" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\compose\README.md" />
+            </Folder>
+            <Folder name="docs">
+                <Folder name="cloud">
+                    <Folder name="analysis">
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-1.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-2.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-3.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-4.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-5.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-6.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-7.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-8.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing-9.jpg" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\cloud-computing.pdf" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\docs\cloud\analysis\test.md" />
+                    </Folder>
+                </Folder>
+            </Folder>
+            <Folder name="logs">
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\branches.log" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\compose.log" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\cygwin.log" />
             </Folder>
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\.gitignore" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\LICENSE" />

@@ -17,6 +17,7 @@
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\init.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\update.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\common.env" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\codefresh.env" />
                     </Folder>
                     <Folder name=".local">
                         <Folder name="gcloud">
@@ -89,21 +90,29 @@
                 </Folder>
             </Folder>
             <Folder name="scripts">
-                <Folder name="assets">
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\assets\identity.sh" />
+                <Folder name="docker">
+                    <Folder name="assets">
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\docker\assets\identity.sh" />
+                    </Folder>
+                    <Folder name="builder">
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\docker\builder\curl.sh" />
+                    </Folder>
+                    <Folder name="codefresh">
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\docker\codefresh\docker-compose.override.yml" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\docker\codefresh\docker-compose.yml" />
+                    </Folder>
+                    <Folder name="product">
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\docker\product\compose.sh" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\docker\product\market.sh" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\docker\product\services.sh" />
+                    </Folder>
                 </Folder>
-                <Folder name="builder">
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\builder\curl.sh" />
+                <Folder name="gcloud">
+                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcloud\clean.bash" />
                 </Folder>
-                <Folder name="concept">
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\concept\clean.sh" />
-                </Folder>
-                <Folder name="product">
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\product\compose.sh" />
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\product\market.sh" />
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\product\services.sh" />
-                </Folder>
-                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\main.bash" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\docker.bash" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcloud.bash" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\git.bash" />
             </Folder>
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\.gitignore" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\cloudbuild.yaml" />

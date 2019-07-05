@@ -4,19 +4,24 @@
             <Folder name="home">
                 <Folder name="chetabahana">
                     <Folder name=".docker">
-                        <Folder name="branch">
-                            <Folder name="saleor">
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\saleor\gunicorn.py" />
+                        <Folder name="build">
+                            <Folder name="Tutorial-Buka-Toko">
+                                <Folder name="saleor">
+                                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\build\Tutorial-Buka-Toko\saleor\gunicorn.py" />
+                                </Folder>
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\build\Tutorial-Buka-Toko\Pipfile" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\build\Tutorial-Buka-Toko\Pipfile.lock" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\build\Tutorial-Buka-Toko\requirements.txt" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\build\Tutorial-Buka-Toko\requirements_dev.txt" />
                             </Folder>
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\Pipfile" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\Pipfile.lock" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\requirements.txt" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\branch\requirements_dev.txt" />
                         </Folder>
-                        <Folder name="cluster">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\cluster\node.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\cluster\common.env" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\cluster\docker-stack.yml" />
+                        <Folder name="deploy">
+                            <Folder name="node">
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\deploy\node\common.env" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\deploy\node\docker-stack.yml" />
+                            </Folder>
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\deploy\gae.sh" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\deploy\node.sh" />
                         </Folder>
                         <Folder name="compose">
                             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\compose\common.env" />
@@ -26,13 +31,12 @@
                         </Folder>
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\init.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\cron.sh" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\market.sh" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\update.sh" />
                     </Folder>
-                    <Folder name=".local">
+                    <Folder name=".config">
                         <Folder name="gcloud">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.local\gcloud\cloud_env.bat" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.config\gcloud\cloud_env.bat" />
                         </Folder>
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.config\update.sh" />
                     </Folder>
                     <Folder name=".logs">
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.logs\branches.log" />
@@ -56,12 +60,12 @@
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.tx\config" />
                     </Folder>
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.bashrc" />
+                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.profile" />
+                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.gitconfig" />
+                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.wget-hsts" />
+                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.transifexrc" />
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.bash_aliases" />
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.bash_logout" />
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.gitconfig" />
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.profile" />
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.transifexrc" />
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.wget-hsts" />
                 </Folder>
                 <Folder name="ubuntu">
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\ubuntu\.bashrc" />
@@ -78,13 +82,9 @@
                 </Folder>
                 <Folder name="gcb">
                     <Folder name="gcloud">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\gcb\gcloud\builder.sh" />
-                    </Folder>
-                    <Folder name="git">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\gcb\git\update.sh" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\gcb\gcloud\update.sh" />
                     </Folder>
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\gcb\gcloud.bash" />
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\gcb\git.bash" />
                 </Folder>
                 <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\cf.bash" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\gcb.bash" />
@@ -118,25 +118,12 @@
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\cf\python.bash" />
                 </Folder>
                 <Folder name="gcb">
-                    <Folder name="git">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\git\clone.sh" />
-                    </Folder>
                     <Folder name="docker">
-                        <Folder name="assets">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\docker\assets\identity.sh" />
-                        </Folder>
-                        <Folder name="builder">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\docker\builder\curl.sh" />
-                        </Folder>
-                        <Folder name="product">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\docker\product\compose.sh" />
-                        </Folder>
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\docker\assets.bash" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\docker\assets.sh" />
                     </Folder>
                     <Folder name="gcloud">
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\gcloud\instance.sh" />
                     </Folder>
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\git.bash" />
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\docker.bash" />
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\gcb\gcloud.bash" />
                 </Folder>

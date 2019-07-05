@@ -19,7 +19,6 @@
                             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\cluster\docker-stack.yml" />
                         </Folder>
                         <Folder name="compose">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\compose\market.sh" />
                             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\compose\common.env" />
                             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\compose\docker-compose.yml" />
                             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\compose\docker-compose.override.yml" />
@@ -27,6 +26,7 @@
                         </Folder>
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\init.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\cron.sh" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\market.sh" />
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\home\chetabahana\.docker\update.sh" />
                     </Folder>
                     <Folder name=".local">
@@ -89,6 +89,7 @@
                 <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\cf.bash" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\scripts\gcb.bash" />
             </Folder>
+            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\.gitconfig" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\.gitignore" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\cloudbuild.yaml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\branches\README.md" />
@@ -112,7 +113,7 @@
             <Folder name="scripts">
                 <Folder name="cf">
                     <Folder name="python">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\cf\python\pipenv.sh" />
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\cf\python\gittle.py" />
                     </Folder>
                     <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\compose\scripts\cf\python.bash" />
                 </Folder>

@@ -14,7 +14,7 @@ steps:
   args:
   - '-c'
   - |
-        bash ${_SCRIPT}/gcloud.bash $PROJECT_ID $BRANCH_NAME $BUILD_ID
+        bash ${_SCRIPT}/docker.bash $PROJECT_ID $BRANCH_NAME $BUILD_ID
 
 substitutions:
   _VERSION: 'v1-062105-cron'

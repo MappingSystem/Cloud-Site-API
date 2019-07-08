@@ -29146,11 +29146,11 @@
                                 <Folder name="saleor">
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\home\marketleader\.docker\build\Tutorial-Buka-Toko\saleor\gunicorn.py" />
                                 </Folder>
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\home\marketleader\.docker\build\Tutorial-Buka-Toko\cloudbuild.yaml" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\home\marketleader\.docker\build\Tutorial-Buka-Toko\Pipfile" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\home\marketleader\.docker\build\Tutorial-Buka-Toko\Pipfile.lock" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\home\marketleader\.docker\build\Tutorial-Buka-Toko\requirements.txt" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\home\marketleader\.docker\build\Tutorial-Buka-Toko\requirements_dev.txt" />
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\home\marketleader\.docker\build\Tutorial-Buka-Toko\cloudbuild.yaml" />
                             </Folder>
                         </Folder>
                         <Folder name="compose">

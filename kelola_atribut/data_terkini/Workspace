@@ -3,18 +3,18 @@
         <Folder name="Cloud-Site-API">
             <Folder name="kelola_atribut">
                 <Folder name="buka_arsip">
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\kelola_atribut\buka_arsip\README.md" />
+                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Site-API\kelola_atribut\buka_arsip\README.md" />
                 </Folder>
                 <Folder name="data_terkini">
                     <File name="README.md" />
                     <File name="Workspace" />
                 </Folder>
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\kelola_atribut\README.md" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Site-API\kelola_atribut\README.md" />
             </Folder>
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\LICENSE" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\README.md" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\_config.yml" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\cloudbuild.yaml" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Site-API\cloudbuild.yaml" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Site-API\LICENSE" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Site-API\README.md" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Site-API\_config.yml" />
         </Folder>
         <Folder name="Google-Ads-API">
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Ads-API\LICENSE" />

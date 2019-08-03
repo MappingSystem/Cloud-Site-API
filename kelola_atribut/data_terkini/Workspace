@@ -25056,7 +25056,6 @@
                                 </Folder>
                                 <Folder name=".ssh">
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\agent" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\authorized_keys" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\config" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\creds_key.enc" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\env_keys.enc" />

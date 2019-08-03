@@ -1,5 +1,26 @@
 <NotepadPlus>
     <Project name="MarketLeader">
+        <Folder name="Google-Site-API">
+            <Folder name="kelola_atribut">
+                <Folder name="buka_arsip">
+                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\kelola_atribut\buka_arsip\README.md" />
+                </Folder>
+                <Folder name="data_terkini">
+                    <File name="README.md" />
+                    <File name="Workspace" />
+                </Folder>
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\kelola_atribut\README.md" />
+            </Folder>
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\LICENSE" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\README.md" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\_config.yml" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\cloudbuild.yaml" />
+        </Folder>
+        <Folder name="Google-Ads-API">
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Ads-API\LICENSE" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Ads-API\README.md" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Ads-API\_config.yml" />
+        </Folder>
         <Folder name="Cloud-Tasks-API">
             <Folder name=".github">
                 <Folder name="badges">
@@ -31,20 +52,20 @@
             </Folder>
             <Folder name=".codefresh">
                 <Folder name="pipeline">
-                    <Folder name="kms">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\kms\account.sh" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\kms\artifact.sh" />
+                    <Folder name="builders">
+                        <Folder name="gcloud">
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\builders\gcloud\account.sh" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\builders\gcloud\artifact.sh" />
+                        </Folder>
+                        <Folder name="python">
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\builders\python\account.sh" />
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\builders\python\artifact.sh" />
+                        </Folder>
+                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\builders\__init__" />
                     </Folder>
-                    <Folder name="python">
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\python\artifact.sh" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\python\pipenv.sh" />
-                    </Folder>
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\kms.env" />
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\python.env" />
                     <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\pipeline\__init__" />
                 </Folder>
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\codefresh.yaml" />
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\codefresh.yml" />
+                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.codefresh\list_files" />
             </Folder>
             <Folder name="contrib">
                 <Folder name="systemd">
@@ -68,6 +89,7 @@
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.goreleaser.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\.travis.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\cloudbuild.yaml" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\codefresh.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\doc.go" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\Dockerfile" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\Dockerfile.multi" />
@@ -84,27 +106,6 @@
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\runbook_test.go" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\SHOULDERS.md" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Cloud-Tasks-API\version.go" />
-        </Folder>
-        <Folder name="Google-Site-API">
-            <Folder name="kelola_atribut">
-                <Folder name="buka_arsip">
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\kelola_atribut\buka_arsip\README.md" />
-                </Folder>
-                <Folder name="data_terkini">
-                    <File name="README.md" />
-                    <File name="Workspace" />
-                </Folder>
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\kelola_atribut\README.md" />
-            </Folder>
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\LICENSE" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\README.md" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\_config.yml" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Sites-API\cloudbuild.yaml" />
-        </Folder>
-        <Folder name="Google-Ads-API">
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Ads-API\LICENSE" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Ads-API\README.md" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Ads-API\_config.yml" />
         </Folder>
         <Folder name="Google-Trend-API">
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Google-Trend-API\pyGTrends.py" />
@@ -147,8 +148,8 @@
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\.codefresh\pipeline\builders\gcloud\artifact.sh" />
                             </Folder>
                             <Folder name="python">
+                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\.codefresh\pipeline\builders\python\account.sh" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\.codefresh\pipeline\builders\python\artifact.sh" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\.codefresh\pipeline\builders\python\pipenv.sh" />
                             </Folder>
                             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\branches\.codefresh\pipeline\builders\__init__" />
                         </Folder>
@@ -204,26 +205,6 @@
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\branches.log" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\compose.log" />
                 <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\logs\cygwin.log" />
-            </Folder>
-            <Folder name="scripts">
-                <Folder name="gcr.io">
-                    <Folder name="cloud-builders">
-                        <Folder name="docker">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\cloud-builders\docker\account.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\cloud-builders\docker\artifact.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\cloud-builders\docker\update.sh" />
-                        </Folder>
-                        <Folder name="gcloud">
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\cloud-builders\gcloud\account.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\cloud-builders\gcloud\artifact.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\cloud-builders\gcloud\update.sh" />
-                        </Folder>
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\cloud-builders\docker.env" />
-                        <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\cloud-builders\gcloud.env" />
-                    </Folder>
-                    <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\gcr.io\__init__" />
-                </Folder>
-                <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\scripts\cloud_builder.sh" />
             </Folder>
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\.gitignore" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\MarketLeader\Toko-Chetabahana\cloudbuild.yaml" />
@@ -22114,9 +22095,9 @@
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\app.yaml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\celery.yaml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\CHANGELOG.md" />
-            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\Chetabahana-f92949fb068b.json" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\cloudbuild.yaml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\common.env" />
+            <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\Chetabahana-f7ea548f518c.json" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\docker-compose.override.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\docker-compose.yml" />
             <File name="C:\Users\Chetabahana\Documents\GitHub\Chetabahana\product\Dockerfile" />
@@ -25032,13 +25013,9 @@
                                         </Folder>
                                     </Folder>
                                     <Folder name="compose">
-                                        <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.docker\compose\Chetabahana-f92949fb068b.json" />
                                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.docker\compose\codefresh-composition.yml" />
-                                        <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.docker\compose\codefresh.env" />
-                                        <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.docker\compose\common.env" />
                                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.docker\compose\docker-compose.override.yml" />
                                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.docker\compose\docker-compose.yml" />
-                                        <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.docker\compose\google.env" />
                                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.docker\compose\run.bash" />
                                     </Folder>
                                     <Folder name="deploy">
@@ -25081,11 +25058,12 @@
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\agent" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\authorized_keys" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\config" />
+                                    <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\creds_key.enc" />
+                                    <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\env_keys.enc" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\google_compute_engine.enc" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\google_compute_engine.pub" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\google_compute_known_hosts" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\id_rsa.enc" />
-                                    <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\json_key.enc" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\known_hosts" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.ssh\push" />
                                 </Folder>
@@ -25094,7 +25072,6 @@
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.bash_logout" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.gitconfig" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.profile" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.transifexrc" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\chetabahana\.wget-hsts" />
                             </Folder>
                             <Folder name="marketleader">
@@ -25106,15 +25083,17 @@
                                 <Folder name=".docker">
                                     <Folder name="build">
                                         <Folder name="Tutorial-Buka-Toko">
-                                            <Folder name="saleor">
-                                                <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\build\Tutorial-Buka-Toko\saleor\gunicorn.py" />
-                                            </Folder>
-                                            <Folder name="scripts">
-                                                <Folder name="gcb">
-                                                    <Folder name="docker">
-                                                        <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\build\Tutorial-Buka-Toko\scripts\gcb\docker\update.sh" />
+                                            <Folder name=".google">
+                                                <Folder name="cloud">
+                                                    <Folder name="builders">
+                                                        <Folder name="docker">
+                                                            <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\build\Tutorial-Buka-Toko\.google\cloud\builders\docker\update.sh" />
+                                                        </Folder>
                                                     </Folder>
                                                 </Folder>
+                                            </Folder>
+                                            <Folder name="saleor">
+                                                <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\build\Tutorial-Buka-Toko\saleor\gunicorn.py" />
                                             </Folder>
                                             <Folder name="tests">
                                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\build\Tutorial-Buka-Toko\tests\test_update.py" />
@@ -25123,16 +25102,12 @@
                                         </Folder>
                                     </Folder>
                                     <Folder name="compose">
-                                        <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\compose\Chetabahana-f92949fb068b.json" />
                                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\compose\codefresh-composition.yml" />
-                                        <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\compose\codefresh.env" />
-                                        <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\compose\common.env" />
                                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\compose\docker-compose.override.yml" />
                                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\compose\docker-compose.yml" />
                                     </Folder>
                                     <Folder name="deploy">
                                         <Folder name="node">
-                                            <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\deploy\node\common.env" />
                                             <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\deploy\node\docker-stack.yml" />
                                         </Folder>
                                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.docker\deploy\gae.sh" />
@@ -25142,6 +25117,7 @@
                                 <Folder name=".ssh">
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.ssh\agent" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.ssh\config" />
+                                    <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.ssh\env_keys.enc" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.ssh\google_compute_engine.enc" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.ssh\google_compute_engine.pub" />
                                     <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.ssh\google_compute_known_hosts" />
@@ -25155,7 +25131,6 @@
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.bash_logout" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.gitconfig" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.profile" />
-                                <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.transifexrc" />
                                 <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.google\cloud\compute\home\marketleader\.wget-hsts" />
                             </Folder>
                             <Folder name="ubuntu">
@@ -25179,8 +25154,8 @@
                             <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.codefresh\pipeline\builders\gcloud\artifact.sh" />
                         </Folder>
                         <Folder name="python">
+                            <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.codefresh\pipeline\builders\python\account.sh" />
                             <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.codefresh\pipeline\builders\python\artifact.sh" />
-                            <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.codefresh\pipeline\builders\python\pipenv.sh" />
                         </Folder>
                         <File name="C:\Users\Chetabahana\Documents\GitHub\Integrations\branches\.codefresh\pipeline\builders\__init__" />
                     </Folder>

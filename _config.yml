@@ -1,5 +1,6 @@
 encoding: utf-8
 highlighter: rouge
+remote_theme: FeedTheme/spectral
 plugins:
   - jekyll-feed
   - jekyll-coffeescrip
